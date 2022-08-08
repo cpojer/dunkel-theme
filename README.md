@@ -1,24 +1,15 @@
-# licht theme
+# dunkel theme
 
 ## VSCode
 
-Install the [licht-theme VSCode extension](https://marketplace.visualstudio.com/items?itemName=cnakazawa.licht-theme)
+Install the [dunkel-theme VSCode extension](https://marketplace.visualstudio.com/items?itemName=cnakazawa.dunkel-theme)
 
-![licht-theme-vscode](./screenshots/licht-vscode.png)
+![dunkel-theme-vscode](./screenshots/dunkel-vscode.png)
 
-## Sublime Text
-
-Load the `.tmTheme` file from this repository in Sublime Text and set it as your color theme.
-![licht-theme-sublime](./screenshots/licht-sublime.png)
-
-## Atom
-
-Install the [licht-theme Atom extension](https://atom.io/themes/licht-theme)
-
-![licht-theme-atom](./screenshots/licht-atom.png)
+If you like this theme, check out [`licht-theme`](https://github.com/cpojer/licht-theme).
 
 ## How to publish
 
 ```bash
-vsce package --baseContentUrl https://github.com/cpojer/licht-theme --baseImagesUrl https://raw.githubusercontent.com/cpojer/licht-theme/master/
+vsce package --baseContentUrl https://github.com/cpojer/dunkel-theme --baseImagesUrl https://raw.githubusercontent.com/cpojer/dunkel-theme/master/
 ```
