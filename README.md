@@ -2,7 +2,7 @@
 
 ## VSCode
 
-Install the [dunkel-theme VSCode extension](https://marketplace.visualstudio.com/items?itemName=cnakazawa.dunkel-theme)
+Install the [dunkel-theme VSCode extension](https://marketplace.visualstudio.com/items?itemName=cnakazawa.dunkel-theme).
 
 ![dunkel-theme-vscode](./screenshots/dunkel-vscode.png)
 
