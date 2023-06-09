@@ -7,6 +7,7 @@
     "editor.foreground": "#c8c8c8",
     "editor.inactiveSelectionBackground": "#dbf0fc20",
     "editor.lineHighlightBackground": "#a5a5a520",
+    "editor.linkedEditingBackground": "#00000000",
     "editor.selectionBackground": "#3d87f560",
     "editor.selectionHighlightBackground": "#3d87f530",
     "editorBracketHighlight.foreground1": "#c8c8c8",

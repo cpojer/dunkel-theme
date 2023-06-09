@@ -1,7 +1,7 @@
 {
   "name": "dunkel-theme",
   "theme": "syntax",
-  "version": "1.7.0",
+  "version": "1.7.1",
   "description": "A comfortable high-contrast dark theme for VS Code.",
   "repository": "git@github.com:cpojer/dark-theme.git",
   "license": "MIT",
